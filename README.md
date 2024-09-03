@@ -8,6 +8,8 @@ A clone of the classic game made entirely in **C** and made to be played in the 
 
 The project has been developed on linux, so support for any other platform is not guaranteed.
 
+The project needs **ncurses** library, to work properly.
+
 ## Instalation
 
 *Dependencies: gcc or any C compiler (in this case you need to edit the Makefile)*
