@@ -10,7 +10,7 @@ The project has been developed on linux, so support for any other platform is no
 
 The project needs **ncurses** library, to work properly.
 
-## Instalation
+## Installation
 
 *Dependencies: gcc or any C compiler (in this case you need to edit the Makefile)*
 
